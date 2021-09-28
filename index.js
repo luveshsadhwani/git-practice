@@ -1,0 +1,1 @@
+const firstConst = "const for init commit";
